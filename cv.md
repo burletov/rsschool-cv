@@ -14,4 +14,22 @@
     * Redux
     * Vue
     * Git
+5. Code Examples:
+
+```javascript
+function test() {
+    console.log("The code should be here");
+}
+```
+
+6. Job Experience: ...
+7. Education:
+    * Plekhanov Russian University of Economics 
+        (course: Hotel Business from 2014 till 2018)
+    * HTML/CSS by WebReference
+    * Javascript by Vladilen Minin
+    * React/Redux by it-incubator
+8. Languages:
+    * Russian: Native
+    * English: Upper Intermediate
 
